@@ -1,18 +1,99 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Steven":
+  - firstname: ["Steven", "S.", "S. S.", "Steven Schockaert"]
+    url: https://www.cardiff.ac.uk/people/view/133772-schockaert-steven
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Wai":
+  - firstname: ["Lam", "W.", "W. L.", "Wai Lam"]
+    url: https://www.se.cuhk.edu.hk/people/academic-staff/prof-lam-wai/
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Lidong":
+  - firstname: ["Lidong", "B.", "B. L.", "Lidong Bing"]
+    url: https://lidongbing.github.io/
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Hugo":
+  - firstname: ["Hugo Paredes", "H. P."]
+    url: https://scholar.google.com/citations?user=sVcWQm8AAAAJ&hl=en
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Benjamin":
+  - firstname: ["Benjamim Fonseca", "B. F."]
+    url: https://scholar.google.com/citations?user=nD2eRuAAAAAJ&hl=en
+
+"Daniel":
+  - firstname: ["Daniel Schneider", "D. S."]
+    url: https://scholar.google.com/citations?user=F64VdaIAAAAJ&hl=en
+
+"Antonio":
+  - firstname: ["António Correia", "A. C."]
+    url: https://www.inesctec.pt/en/people/antonio-guilherme-correia
+
+"Bei":
+  - firstname: ["Bei Shi", "S. B."]
+    url: https://scholar.google.com/citations?user=UJ_tgMYAAAAJ&hl=en
+
+"Xing":
+  - firstname: ["Xing Xie", "X. X."]
+    url: https://www.microsoft.com/en-us/research/people/xingx/?from=http%3A%2F%2Fresearch.microsoft.com%2Fusers%2Fxingx
+
+"Albert":
+  - firstname: ["Ching-man Au Yeung", "A. Y."]
+    url: https://albertauyeung.github.io/
+
+"Tejbanta":
+  - firstname: ["Tejbanta Singh Chingtham", "C. T. S."]
+    url: https://scholar.google.com/citations?user=wL_FbKQAAAAJ&hl=en
+
+"Zihao":
+  - firstname: ["Zihao Fu", "Z. F."]
+    url: https://scholar.google.com/citations?user=64CHB2YAAAAJ&hl=en
+
+"Shan":
+  - firstname: ["Shan Jiang", "S. J."]
+    url: https://scholar.google.com/citations?user=eL5dE-wAAAAJ&hl=en
+
+"Jose":
+  - firstname: ["Jose Camacho-Collados", "J. C."]
+    url: http://www.josecamachocollados.com/
+
+"Luis":
+  - firstname: ["Luis Espinosa-Anke", "L. E."]
+    url: https://luis-espinosa-anke.jimdosite.com/
+
+"Chunliang":
+  - firstname: ["Chunliang Lu", "C. L."]
+    url: https://chunlianglyu.com/
+
+"Mrinal":
+  - firstname: ["Mrinal Kanti Ghose", "M. K."]
+    url: https://scholar.google.com/citations?user=YtxQVU4AAAAJ&hl=en
+
+"Guandong":
+  - firstname: ["Guandong Xu", "G. X."]
+    url: https://profiles.uts.edu.au/guandong.xu
+
+"Imran":
+  - firstname: ["Imran Razzak", "I. R."]
+    url: https://scholar.google.com/citations?user=GlXI4N8AAAAJ&hl=en
+
+"Zied":
+  - firstname: ["Zied Bouraoui", "Z. B."]
+    url: http://www.cril.univ-artois.fr/~bouraoui/
+
+"Jianlong":
+  - firstname: ["Jianlong Zhou", "J. Z."]
+    url: https://csjzhou.github.io/
+
+"Shuiqiao":
+  - firstname: ["Shuiqiao Yang", "S. Y."]
+    url: https://profiles.uts.edu.au/Shuiqiao.Yang
+
+"Fang":
+  - firstname: ["Fang Chen", "F. C."]
+    url: https://profiles.uts.edu.au/fang.chen
+
+"Kun":
+  - firstname: ["Kun Yan", "K. Y."]
+    url: https://github.com/yankun-pku
+
+"Ping":
+  - firstname: ["Ping Wang", "P. W."]
+    url: https://ieeexplore.ieee.org/author/37086128791

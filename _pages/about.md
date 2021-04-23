@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 The **long-term** goal of my research is to develop novel computational methods to realise **education-at-scale**.
-I want to make education **freely** accessible to all, especially to people in the developing world. Particularly, I am interested
+I want to make education **freely** accessible to all with the help of technology, especially to people in the developing world. Particularly, I am interested
 in developing novel methods where **personalised** education can be provided to learners in their **native** language using automated methods.
 
 To realise my goal, in several small steps, I have developed different novel computational methods to automatically model **readability** of **text** data.
