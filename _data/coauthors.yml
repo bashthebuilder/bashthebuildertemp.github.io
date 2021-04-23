@@ -44,7 +44,7 @@
 
 "Fu":
   - firstname: ["Zihao", "F.", "Z. F."]
-    url: https://scholar.google.com/citations?user=64CHB2YAAAAJ&hl=en
+    url: http://www.fuzihao.org/cv/
 
 "Jiang":
   - firstname: ["Shan", "J.", "S. J."]
@@ -137,3 +137,11 @@
 "Ma":
   - firstname: ["Bin", "B.",]
     url: https://www.researchgate.net/profile/Bin-Ma-17
+
+"Zogan":
+  - firstname: ["Hamad", "H.",]
+    url: http://dsmi.tech/member/
+
+"Wang":
+  - firstname: ["Xianzhi", "X.",]
+    url: https://profiles.uts.edu.au/XIANZHI.WANG

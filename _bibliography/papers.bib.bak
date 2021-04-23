@@ -6,7 +6,7 @@
 
 @Article{Yan2021,
   author        = {Kun Yan and Zied Bouraoui and Ping Wang and Shoaib Jameel and Steven Schockaert},
-  journal       = {CoRR},
+  journal       = {ICASSP},
   title         = {Few-shot Image Classification with Multi-Facet Prototypes},
   year          = {2021},
   volume        = {abs/2102.00801},
@@ -14,6 +14,9 @@
   bibsource     = {dblp computer science bibliography, https://dblp.org},
   biburl        = {https://dblp.org/rec/journals/corr/abs-2102-00801.bib},
   eprint        = {2102.00801},
+  html          = {http://repository.essex.ac.uk/29673/},
+  pdf           = {https://arxiv.org/abs/2102.00801},
+  selected      = {true},
   timestamp     = {Tue, 09 Feb 2021 00:00:00 +0100},
   url           = {https://arxiv.org/abs/2102.00801},
 }
@@ -29,6 +32,8 @@
   bibsource = {dblp computer science bibliography, https://dblp.org},
   biburl    = {https://dblp.org/rec/conf/bigdataconf/CorreiaJSPF20.bib},
   doi       = {10.1109/BigData50022.2020.9378096},
+  html      = {https://ieeexplore.ieee.org/document/9378096},
+  pdf       = {Conference_Paper_IEEE_BigData20.pdf},
   timestamp = {Fri, 09 Apr 2021 17:11:10 +0200},
   url       = {https://doi.org/10.1109/BigData50022.2020.9378096},
 }
@@ -44,6 +49,8 @@
   bibsource = {dblp computer science bibliography, https://dblp.org},
   biburl    = {https://dblp.org/rec/conf/coling/FuBLJ20.bib},
   doi       = {10.18653/v1/2020.coling-main.215},
+  html      = {http://repository.essex.ac.uk/28980/},
+  pdf       = {https://www.aclweb.org/anthology/2020.coling-main.215/},
   timestamp = {Fri, 08 Jan 2021 00:00:00 +0100},
   url       = {https://doi.org/10.18653/v1/2020.coling-main.215},
 }
@@ -57,6 +64,8 @@
   publisher = {ScholarSpace},
   bibsource = {dblp computer science bibliography, https://dblp.org},
   biburl    = {https://dblp.org/rec/conf/hicss/CorreiaJSFP20.bib},
+  html      = {http://128.171.57.22/handle/10125/64310},
+  pdf       = {https://scholarspace.manoa.hawaii.edu/bitstream/10125/64310/0459.pdf},
   timestamp = {Fri, 29 Jan 2021 00:00:00 +0100},
   url       = {http://hdl.handle.net/10125/64310},
 }
@@ -71,6 +80,8 @@
   bibsource     = {dblp computer science bibliography, https://dblp.org},
   biburl        = {https://dblp.org/rec/journals/corr/abs-2007-02325.bib},
   eprint        = {2007.02325},
+  html          = {https://ieeexplore.ieee.org/document/9325873},
+  pdf           = {https://arxiv.org/abs/2007.02325},
   timestamp     = {Mon, 07 Sep 2020 01:00:00 +0200},
   url           = {https://arxiv.org/abs/2007.02325},
 }
@@ -85,6 +96,8 @@
   bibsource     = {dblp computer science bibliography, https://dblp.org},
   biburl        = {https://dblp.org/rec/journals/corr/abs-2007-02847.bib},
   eprint        = {2007.02847},
+  html          = {https://arxiv.org/abs/2007.02847},
+  pdf           = {https://arxiv.org/pdf/2007.02847.pdf},
   timestamp     = {Sat, 18 Jul 2020 01:00:00 +0200},
   url           = {https://arxiv.org/abs/2007.02847},
 }
@@ -99,6 +112,8 @@
   bibsource = {dblp computer science bibliography, https://dblp.org},
   biburl    = {https://dblp.org/rec/conf/aaai/JameelFSLS19.bib},
   doi       = {10.1609/aaai.v33i01.33016562},
+  html      = {http://orca.cf.ac.uk/117380/},
+  pdf       = {https://blogs.kent.ac.uk/datascience/files/2018/10/AAAI-2019.pdf},
   timestamp = {Tue, 02 Feb 2021 00:00:00 +0100},
   url       = {https://doi.org/10.1609/aaai.v33i01.33016562},
 }
@@ -114,6 +129,7 @@
   bibsource = {dblp computer science bibliography, https://dblp.org},
   biburl    = {https://dblp.org/rec/conf/acl/JameelS19.bib},
   doi       = {10.18653/v1/p19-1321},
+  html      = {https://www.aclweb.org/anthology/P19-1321/},
   timestamp = {Tue, 28 Jan 2020 00:00:00 +0100},
   url       = {https://doi.org/10.18653/v1/p19-1321},
 }
@@ -129,6 +145,8 @@
   bibsource = {dblp computer science bibliography, https://dblp.org},
   biburl    = {https://dblp.org/rec/conf/cscwd/CorreiaJSFP19.bib},
   doi       = {10.1109/CSCWD.2019.8791855},
+  html      = {https://ieeexplore.ieee.org/document/8791855},
+  pdf       = {https://core.ac.uk/download/pdf/189723933.pdf},
   timestamp = {Fri, 08 Jan 2021 00:00:00 +0100},
   url       = {https://doi.org/10.1109/CSCWD.2019.8791855},
 }
@@ -144,6 +162,7 @@
   bibsource = {dblp computer science bibliography, https://dblp.org},
   biburl    = {https://dblp.org/rec/conf/ijcai/Camacho-Collados19.bib},
   doi       = {10.24963/ijcai.2019/682},
+  pdf       = {https://www.ijcai.org/Proceedings/2019/0682.pdf},
   timestamp = {Tue, 20 Aug 2019 16:18:18 +0200},
   url       = {https://doi.org/10.24963/ijcai.2019/682},
 }
@@ -158,6 +177,8 @@
   bibsource = {dblp computer science bibliography, https://dblp.org},
   biburl    = {https://dblp.org/rec/conf/smc/CorreiaFPSJ19.bib},
   doi       = {10.1109/SMC.2019.8914637},
+  html      = {https://ieeexplore.ieee.org/document/8914637},
+  pdf       = {Paper_SciCrowd_IEEE_SMC_2019_final_version.pdf},
   timestamp = {Fri, 08 Jan 2021 00:00:00 +0100},
   url       = {https://doi.org/10.1109/SMC.2019.8914637},
 }
@@ -172,6 +193,8 @@
   bibsource = {dblp computer science bibliography, https://dblp.org},
   biburl    = {https://dblp.org/rec/conf/smc/CorreiaPSJF19.bib},
   doi       = {10.1109/SMC.2019.8914075},
+  html      = {https://ieeexplore.ieee.org/abstract/document/8914075},
+  pdf       = {Paper_Human_Centered_AI_IEEE_SMC_2019_final_version.pdf},
   timestamp = {Fri, 08 Jan 2021 00:00:00 +0100},
   url       = {https://doi.org/10.1109/SMC.2019.8914075},
 }
@@ -188,6 +211,7 @@
   bibsource = {dblp computer science bibliography, https://dblp.org},
   biburl    = {https://dblp.org/rec/series/hci/CorreiaJPFS19.bib},
   doi       = {10.1007/978-3-030-12334-5\_5},
+  pdf       = {https://link.springer.com/chapter/10.1007/978-3-030-12334-5_5},
   timestamp = {Fri, 08 Jan 2021 00:00:00 +0100},
   url       = {https://doi.org/10.1007/978-3-030-12334-5\_5},
 }
@@ -203,6 +227,7 @@
   bibsource = {dblp computer science bibliography, https://dblp.org},
   biburl    = {https://dblp.org/rec/conf/acl/JameelSB18.bib},
   doi       = {10.18653/v1/P18-1003},
+  pdf       = {https://www.aclweb.org/anthology/P18-1003/},
   timestamp = {Mon, 16 Sep 2019 01:00:00 +0200},
   url       = {https://www.aclweb.org/anthology/P18-1003/},
 }
@@ -217,6 +242,7 @@
   publisher = {Association for Computational Linguistics},
   bibsource = {dblp computer science bibliography, https://dblp.org},
   biburl    = {https://dblp.org/rec/conf/coling/BouraouiJS18.bib},
+  pdf       = {https://www.aclweb.org/anthology/C18-1138/},
   timestamp = {Mon, 16 Sep 2019 17:08:53 +0200},
   url       = {https://www.aclweb.org/anthology/C18-1138/},
 }
@@ -231,6 +257,7 @@
   publisher = {{AAAI} Press},
   bibsource = {dblp computer science bibliography, https://dblp.org},
   biburl    = {https://dblp.org/rec/conf/aaai/BouraouiJS17.bib},
+  pdf       = {https://orca.cf.ac.uk/96944/1/cameraReady.pdf},
   timestamp = {Wed, 10 Feb 2021 08:43:31 +0100},
   url       = {http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14916},
 }
@@ -246,6 +273,7 @@
   bibsource = {dblp computer science bibliography, https://dblp.org},
   biburl    = {https://dblp.org/rec/conf/conll/JameelS17.bib},
   doi       = {10.18653/v1/K17-1014},
+  pdf       = {https://www.aclweb.org/anthology/K17-1014/},
   timestamp = {Mon, 16 Sep 2019 17:08:53 +0200},
   url       = {https://doi.org/10.18653/v1/K17-1014},
 }
@@ -261,6 +289,7 @@
   bibsource = {dblp computer science bibliography, https://dblp.org},
   biburl    = {https://dblp.org/rec/conf/sigir/ShiLJSL17.bib},
   doi       = {10.1145/3077136.3080806},
+  pdf       = {https://arxiv.org/pdf/1706.07276.pdf},
   timestamp = {Tue, 06 Nov 2018 11:07:22 +0100},
   url       = {https://doi.org/10.1145/3077136.3080806},
 }
@@ -276,6 +305,7 @@
   bibsource = {dblp computer science bibliography, https://dblp.org},
   biburl    = {https://dblp.org/rec/conf/sigir/JameelBS17.bib},
   doi       = {10.1145/3077136.3080803},
+  pdf       = {https://orca.cf.ac.uk/100910/1/MEmbER___SIGIR_2017-10.pdf},
   timestamp = {Tue, 06 Nov 2018 00:00:00 +0100},
   url       = {https://doi.org/10.1145/3077136.3080803},
 }
@@ -290,6 +320,7 @@
   bibsource     = {dblp computer science bibliography, https://dblp.org},
   biburl        = {https://dblp.org/rec/journals/corr/ShiLJSL17.bib},
   eprint        = {1706.07276},
+  pdf           = {https://arxiv.org/pdf/1706.07276.pdf},
   timestamp     = {Mon, 13 Aug 2018 01:00:00 +0200},
   url           = {http://arxiv.org/abs/1706.07276},
 }
@@ -304,6 +335,7 @@
   bibsource     = {dblp computer science bibliography, https://dblp.org},
   biburl        = {https://dblp.org/rec/journals/corr/abs-1708-06266.bib},
   eprint        = {1708.06266},
+  pdf           = {https://arxiv.org/abs/1708.06266},
   timestamp     = {Mon, 13 Aug 2018 01:00:00 +0200},
   url           = {http://arxiv.org/abs/1708.06266},
 }
@@ -318,6 +350,7 @@
   bibsource     = {dblp computer science bibliography, https://dblp.org},
   biburl        = {https://dblp.org/rec/journals/corr/abs-1711-05294.bib},
   eprint        = {1711.05294},
+  pdf           = {https://arxiv.org/abs/1711.05294},
   timestamp     = {Mon, 13 Aug 2018 01:00:00 +0200},
   url           = {http://arxiv.org/abs/1711.05294},
 }
@@ -332,6 +365,7 @@
   publisher = {{ACL}},
   bibsource = {dblp computer science bibliography, https://dblp.org},
   biburl    = {https://dblp.org/rec/conf/coling/JameelS16.bib},
+  pdf       = {https://www.aclweb.org/anthology/C16-1174/},
   timestamp = {Mon, 16 Sep 2019 17:08:53 +0200},
   url       = {https://www.aclweb.org/anthology/C16-1174/},
 }
@@ -349,6 +383,7 @@
   bibsource = {dblp computer science bibliography, https://dblp.org},
   biburl    = {https://dblp.org/rec/conf/ecai/JameelS16.bib},
   doi       = {10.3233/978-1-61499-672-9-1353},
+  pdf       = {https://orca.cf.ac.uk/93262/1/camera-ready.pdf},
   timestamp = {Wed, 24 May 2017 01:00:00 +0200},
   url       = {https://doi.org/10.3233/978-1-61499-672-9-1353},
 }
@@ -364,6 +399,8 @@
   bibsource = {dblp computer science bibliography, https://dblp.org},
   biburl    = {https://dblp.org/rec/conf/hicss/LiuJWM16.bib},
   doi       = {10.1109/HICSS.2016.211},
+  html      = {https://ieeexplore.ieee.org/document/7427390},
+  pdf       = {http://users.cs.cf.ac.uk/JameelS1/hicss-paper.pdf},
   timestamp = {Wed, 16 Oct 2019 14:14:55 +0200},
   url       = {https://doi.org/10.1109/HICSS.2016.211},
 }
@@ -379,6 +416,8 @@
   bibsource = {dblp computer science bibliography, https://dblp.org},
   biburl    = {https://dblp.org/rec/conf/ictir/JameelLLSX16.bib},
   doi       = {10.1145/2970398.2970401},
+  html      = {https://dl.acm.org/doi/10.1145/2970398.2970401},
+  pdf       = {http://orca.cf.ac.uk/93261/},
   timestamp = {Tue, 06 Nov 2018 11:07:20 +0100},
   url       = {https://doi.org/10.1145/2970398.2970401},
 }
@@ -394,6 +433,8 @@
   bibsource = {dblp computer science bibliography, https://dblp.org},
   biburl    = {https://dblp.org/rec/conf/ictir/LiaoLJSX16.bib},
   doi       = {10.1145/2970398.2970420},
+  html      = {https://dl.acm.org/doi/10.1145/2970398.2970420},
+  pdf       = {http://orca.cf.ac.uk/93259/},
   timestamp = {Tue, 06 Nov 2018 00:00:00 +0100},
   url       = {https://doi.org/10.1145/2970398.2970420},
 }
@@ -408,6 +449,8 @@
   publisher = {{IJCAI/AAAI} Press},
   bibsource = {dblp computer science bibliography, https://dblp.org},
   biburl    = {https://dblp.org/rec/conf/ijcai/SchockaertJ16.bib},
+  html      = {https://dl.acm.org/doi/10.5555/3061053.3061221},
+  pdf       = {http://orca.cf.ac.uk/89927/},
   timestamp = {Tue, 20 Aug 2019 16:19:00 +0200},
   url       = {http://www.ijcai.org/Abstract/16/605},
 }
@@ -422,6 +465,7 @@
   bibsource     = {dblp computer science bibliography, https://dblp.org},
   biburl        = {https://dblp.org/rec/journals/corr/JameelS16.bib},
   eprint        = {1602.05765},
+  pdf           = {https://orca.cf.ac.uk/93262/1/camera-ready.pdf},
   timestamp     = {Mon, 13 Aug 2018 01:00:00 +0200},
   url           = {http://arxiv.org/abs/1602.05765},
 }
@@ -437,6 +481,8 @@
   bibsource = {dblp computer science bibliography, https://dblp.org},
   biburl    = {https://dblp.org/rec/journals/ir/JameelLB15.bib},
   doi       = {10.1007/s10791-015-9254-2},
+  html      = {https://link.springer.com/article/10.1007/s10791-015-9254-2},
+  pdf       = {http://repository.essex.ac.uk/26534/},
   timestamp = {Fri, 06 Mar 2020 00:00:00 +0100},
   url       = {https://doi.org/10.1007/s10791-015-9254-2},
 }
@@ -451,6 +497,8 @@
   bibsource = {dblp computer science bibliography, https://dblp.org},
   biburl    = {https://dblp.org/rec/journals/kbs/BingJLZJ15.bib},
   doi       = {10.1016/j.knosys.2014.10.003},
+  html      = {https://dl.acm.org/doi/10.1016/j.knosys.2014.10.003},
+  pdf       = {https://lidongbing.github.io/pub/kbs_2015.pdf},
   timestamp = {Tue, 25 Feb 2020 00:00:00 +0100},
   url       = {https://doi.org/10.1016/j.knosys.2014.10.003},
 }
@@ -466,6 +514,8 @@
   bibsource = {dblp computer science bibliography, https://dblp.org},
   biburl    = {https://dblp.org/rec/journals/tois/BingLWJ15.bib},
   doi       = {10.1145/2699666},
+  html      = {https://dl.acm.org/doi/10.1145/2699666},
+  pdf       = {https://kar.kent.ac.uk/69591/},
   timestamp = {Tue, 06 Nov 2018 00:00:00 +0100},
   url       = {https://doi.org/10.1145/2699666},
 }
@@ -483,6 +533,8 @@
   bibsource = {dblp computer science bibliography, https://dblp.org},
   biburl    = {https://dblp.org/rec/conf/airs/LiaoJLX15.bib},
   doi       = {10.1007/978-3-319-28940-3\_12},
+  html      = {https://link.springer.com/chapter/10.1007/978-3-319-28940-3_12},
+  pdf       = {airs-yiliao.pdf},
   timestamp = {Tue, 14 May 2019 10:00:54 +0200},
   url       = {https://doi.org/10.1007/978-3-319-28940-3\_12},
 }
@@ -498,6 +550,8 @@
   bibsource = {dblp computer science bibliography, https://dblp.org},
   biburl    = {https://dblp.org/rec/conf/cikm/JameelLSB15.bib},
   doi       = {10.1145/2806416.2806482},
+  html      = {https://dl.acm.org/doi/10.1145/2806416.2806482},
+  pdf       = {http://orca.cf.ac.uk/84841/},
   timestamp = {Tue, 16 Apr 2019 17:19:28 +0200},
   url       = {https://doi.org/10.1145/2806416.2806482},
 }
@@ -514,6 +568,8 @@
   bibsource = {dblp computer science bibliography, https://dblp.org},
   biburl    = {https://dblp.org/rec/conf/ecir/JameelLB15.bib},
   doi       = {10.1007/978-3-319-16354-3\_71},
+  html      = {https://link.springer.com/chapter/10.1007/978-3-319-16354-3_71},
+  pdf       = {ecir2015.pdf},
   timestamp = {Tue, 14 May 2019 10:00:37 +0200},
   url       = {https://doi.org/10.1007/978-3-319-16354-3\_71},
 }
@@ -527,6 +583,8 @@
   publisher = {{ISCA}},
   bibsource = {dblp computer science bibliography, https://dblp.org},
   biburl    = {https://dblp.org/rec/conf/interspeech/LiuJLMM15.bib},
+  html      = {http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.699.2648&rep=rep1&type=pdf},
+  pdf       = {http://repository.essex.ac.uk/28509/},
   timestamp = {Mon, 04 Jan 2016 17:11:58 +0100},
   url       = {http://www.isca-speech.org/archive/interspeech\_2015/i15\_0707.html},
 }
@@ -544,6 +602,8 @@
   bibsource = {dblp computer science bibliography, https://dblp.org},
   biburl    = {https://dblp.org/rec/conf/cicling/BingLJL14.bib},
   doi       = {10.1007/978-3-642-54903-8\_17},
+  html      = {https://link.springer.com/chapter/10.1007/978-3-642-54903-8_17},
+  pdf       = {https://www.cs.cmu.edu/~lbing/pub/cicling2014-bing.pdf},
   timestamp = {Tue, 14 May 2019 10:00:46 +0200},
   url       = {https://doi.org/10.1007/978-3-642-54903-8\_17},
 }
@@ -561,6 +621,8 @@
   bibsource = {dblp computer science bibliography, https://dblp.org},
   biburl    = {https://dblp.org/rec/conf/airs/JameelL13.bib},
   doi       = {10.1007/978-3-642-45068-6\_7},
+  html      = {https://link.springer.com/chapter/10.1007/978-3-642-45068-6_7},
+  pdf       = {http://praxis.cs.cf.ac.uk/JameelS1/sample-presentation.pdf},
   timestamp = {Tue, 14 May 2019 10:00:54 +0200},
   url       = {https://doi.org/10.1007/978-3-642-45068-6\_7},
 }
@@ -578,6 +640,8 @@
   bibsource = {dblp computer science bibliography, https://dblp.org},
   biburl    = {https://dblp.org/rec/conf/ecir/JameelL13.bib},
   doi       = {10.1007/978-3-642-36973-5\_25},
+  html      = {https://link.springer.com/chapter/10.1007/978-3-642-36973-5_25},
+  pdf       = {https://pdfs.semanticscholar.org/cc4a/78c58b0ae718576259a01aaa032f6d95ffd5.pdf},
   timestamp = {Tue, 14 May 2019 10:00:37 +0200},
   url       = {https://doi.org/10.1007/978-3-642-36973-5\_25},
 }
@@ -593,6 +657,8 @@
   bibsource = {dblp computer science bibliography, https://dblp.org},
   biburl    = {https://dblp.org/rec/conf/sigir/JameelL13.bib},
   doi       = {10.1145/2484028.2484062},
+  html      = {https://dl.acm.org/doi/10.1145/2484028.2484062},
+  pdf       = {https://users.cs.cf.ac.uk/JameelS1/sigir_2013.pdf},
   timestamp = {Tue, 06 Nov 2018 11:07:23 +0100},
   url       = {https://doi.org/10.1145/2484028.2484062},
 }
@@ -607,6 +673,7 @@
   publisher = {Indian Institute of Technology Bombay},
   bibsource = {dblp computer science bibliography, https://dblp.org},
   biburl    = {https://dblp.org/rec/conf/coling/JameelQL12.bib},
+  pdf       = {https://www.aclweb.org/anthology/C12-1080/},
   timestamp = {Mon, 16 Sep 2019 17:08:53 +0200},
   url       = {https://www.aclweb.org/anthology/C12-1080/},
 }
@@ -622,6 +689,8 @@
   bibsource = {dblp computer science bibliography, https://dblp.org},
   biburl    = {https://dblp.org/rec/conf/jcdl/JameelLQY12.bib},
   doi       = {10.1145/2232817.2232886},
+  html      = {https://dl.acm.org/doi/10.1145/2232817.2232886},
+  pdf       = {jcdl_2012.pdf},
   timestamp = {Wed, 14 Nov 2018 10:52:01 +0100},
   url       = {https://doi.org/10.1145/2232817.2232886},
 }
@@ -636,6 +705,8 @@
   bibsource = {dblp computer science bibliography, https://dblp.org},
   biburl    = {https://dblp.org/rec/conf/skg/JameelQ12.bib},
   doi       = {10.1109/SKG.2012.20},
+  html      = {https://ieeexplore.ieee.org/document/6391809/},
+  pdf       = {http://users.cs.cardiff.ac.uk/JameelS1/skg_2012.pdf},
   timestamp = {Wed, 16 Oct 2019 14:14:54 +0200},
   url       = {https://doi.org/10.1109/SKG.2012.20},
 }
@@ -650,6 +721,8 @@
   bibsource = {dblp computer science bibliography, https://dblp.org},
   biburl    = {https://dblp.org/rec/conf/webi/JameelLQ12.bib},
   doi       = {10.1109/WI-IAT.2012.235},
+  html      = {https://ieeexplore.ieee.org/document/6511877},
+  pdf       = {wi-2012.pdf},
   timestamp = {Thu, 25 May 2017 01:00:00 +0200},
   url       = {https://doi.org/10.1109/WI-IAT.2012.235},
 }
